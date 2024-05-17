@@ -1,2 +1,2 @@
 # time_counter
-A simple Python time counter to track and log your activities.
+A simple Python Time-Counter Application to track and log your activities.
